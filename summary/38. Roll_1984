@@ -1,0 +1,18 @@
+38. A Simple Implicit Measure of the Effective Bid-Ask Spread in an Efficient Market
+=============================================
+<Abstract>
+Given the market efficiency, the effective bid-ask spread can be measured by:
+    SPREAD = 2 * SQRT(-cov)
+where cov is the first order serial covariance of price changes. (This implicit measure is shown empirically to be closely related to firm size.)
+
+<Methodology>
+Probability analysis + transition matrix + autocorrelation
+
+<Conclusion>
+- Implicit estimate formula.
+- The resulting estimates were strongly negatively related to firm size, thus supporting the measure of being related to trading costs (which are negatively related also to firm size).
+- A sizeable difference was detected between spreads estimated from daily and weekly data. This implies informational inefficiency, or else very short-term nonstationarity in expected returns.
+
+<Length>
+14 pages
+

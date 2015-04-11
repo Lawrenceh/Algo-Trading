@@ -1,0 +1,15 @@
+40. Market Making and Mean Reversion
+=============================================
+<Abstract>
+We study the profitability of market making strategies in a variety of time series models for the evolution of a stock's price and analyze market making algorithms. Next, we identify a natural class of time series called mean-reverting processes whose properties make our market making algorithm profitable in expectation.
+
+<Methodology>
+- First provide a precise theoretical characterizatio of the profitability of a simple and natural market making algorithm in the absence of any stochastic assumptions on price evolution.
+- Proved that market making is generally profitable on mean reverting time series.
+
+<Conclusion>
+(Said in Abstract and Methodology.)
+
+<Length>
+8 pages
+

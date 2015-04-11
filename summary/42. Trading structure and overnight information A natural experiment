@@ -1,0 +1,16 @@
+42. Trading structure and overnight information: A natural experiment
+=============================================
+<Abstract>
+We study the effect of trading mechanisms on stock return volatility using the TASE data set. (TASE represents a natural experiment which allows seperation of the overnight information effect from the trading mechanism effect.) 
+
+<Methodology>
+- Mostly done with: multivariate variance ratio tests
+
+<Conclusion>
+- The null hypothesis that opening variances equal closing variances cannot be rejected for either period.
+- The tests cannot reject null that the ratio of opening to closing return variances is equal to across periods.
+- This suggests that the trading mechanisms on the TASE do not differ in their effect upon return volatility.
+
+<Length>
+24 pages
+

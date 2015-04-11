@@ -1,0 +1,22 @@
+41. The Trading Profits of High Frequency Traders
+=============================================
+<Abstract>
+We examine the profitability of HFT.
+
+<Methodology>
+- Analyze on transaction level data with user identifications.
+- HFT profits by Counterparty.
+- Spectral Analysis.
+- Report a Profit-based Herfindahl index as well as a Volume-based one for entry/exit of firms.
+- OLS regression to test persistence. (Profit ~ profit_last_time_point, aggressiveness, volume, volatility)
+- OLS regressio on exit probability and the relationship between speed and profits.
+
+<Conclusion>
+- HFTs collectively earn over $23 million in trading profits in the E-mini S&P 500 futures contract during the month of August 2010.
+- The profits of HFTs are mainly derived from Opportunistic traders, and also from Fundamental (institutional) traders, Small (retail) traders and Non-HFT Market Makers.
+- Despite the risk, HFTs generate usually higher average Sharpe Ratios with a median of 4.5 across firms in August, 2010.
+- HFTs profits are persistent, that is, new entrants have a higher propensity to underperform and exit, and the fastest firms (in absolute and in relative terms) earn the highest profits.
+
+<Length>
+57 pages
+

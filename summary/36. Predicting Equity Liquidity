@@ -1,0 +1,19 @@
+Predicting Equity Liquidity
+=============================================
+<Abstract>
+- Predicting the equity liquidity using a measure of price impact, the change in a firms stock price associated with its observed net trading volume.
+- Relating the measured price impact to a set of predetermined firm cahracteristics.
+- Comparing our estimates of price impact to actual price impacts
+
+<Methodology>
+Time series + naive linear regression + linear pricing rule
+
+<Conclusion>
+- There are evidence that liquidity varies cross-sectionally as a function of predetermined firm characteristics as predicted by theories based on adverse selection, market making costs and shareholder heterogeneity. 
+- Also, the intrad-day pattern is like that the price impact being higher at the beginning and end of the trading day relative to the middle of the day. 
+- Moreover, there are numerous aspects of trade execution significantly related to the price impact forecast error in intuitive ways like, the predicted price impact overestimates the actual price impact for very large trades, etc.
+
+<Length>
+55 pages.
+
+

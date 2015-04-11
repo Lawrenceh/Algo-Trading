@@ -1,0 +1,23 @@
+39. Strategic Trading, Liquidity, and Information Acquisition
+=============================================
+<Abstract>
+We examined a dynamic financial market with endogenous liquidity trading under asymmetric information. In addition, we study factors that affect the insider's information acquisition decision, including the amount of intractable information, observability, and information acquisition costs.
+
+<Methodology>
+- Information about the security's value partitioned into:
+    public information
+    tractable information (can be acquired by informed trader)
+    intractable information
+- Based on model given by Kyle, we set up a new model with a definition of an equilibrium.
+- Equilibrium outcome -> discrete-time model.
+- Put forward continous-time model and analyzed the market efficiency, information acquisition, etc.
+
+<Conclusion>
+- Making information asymmetry endogenous reduces market efficiency
+- As the interest rate, speed of public information release, or liquidity trading interest increase, so does the adverse selection spread. As the security's total risk or information asymmetry increases, so does the adverse selection spread. (Importance of intractable information and its rate of diffusion to the market as determinants of liquidity and efficiency.)
+- Compared to models with exogenous noise trading, less information is acquired by insiders and it is disseminated to the market more slowly when liquidity trading is endogenous.
+- A number of empirical implications more.
+
+<Length>
+43 pages
+
